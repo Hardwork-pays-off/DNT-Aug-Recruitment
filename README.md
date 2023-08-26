@@ -1,4 +1,4 @@
-# DNT-Aug-Recruitment
+# DNT-Aug-Projects
 
 There are 2 projescts in this Github repo. 
 
