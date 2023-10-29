@@ -1,4 +1,4 @@
-# DNT-Aug-Projects
+# OpenCV Projects
 
 There are 2 projescts in this Github repo. 
 
